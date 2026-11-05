@@ -64,3 +64,4 @@ print (f"A pressão é {pacienteNovo["pressaoMedia"]:.2f}") ## Veja como é a si
 ## perceba que, quando eu escrevo o :.2f, eu preciso falar isso em cima do valor, e não atrelar isso na hora que estou acesando
 ## por isso que, quando vamos fazer dessa forma, precimaos configurar para que só depois de acessar o valor, coloquemos a formatação
 
+
